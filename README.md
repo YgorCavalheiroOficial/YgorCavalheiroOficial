@@ -32,7 +32,7 @@
 ##
 
 ### Soft Skils
-- 🫱🏿‍🫲🏻 Team work
+- :pray: Team work
 - 😄 Empathy 
 - 🎯 Collaboration
 
