@@ -10,7 +10,7 @@
 - 📖 Também estou terminando meu curso técnico em manutenção e suporte a informática;
 - 🐍 Estou aprendendo a linguagem de programação Python;
 - ☕ Estou aprendendo a linguagem de programação Java;
-- 🤖 Estou aprendendo os princípios de uma IA.
+- 🤖 Estou aprendendo os princípios de uma IA(Machine Learning).
 
 ##
 
@@ -20,7 +20,7 @@
 
 ##
 
-### Skils
+### Hard Skils
 <div>
   <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
